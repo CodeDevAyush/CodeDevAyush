@@ -25,32 +25,10 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- 🧠 Artificial Intelligence & Machine Learning  
-- 👁️ Advanced AI (Generative AI, Agentic AI)  
-- ⚡ Scalable Backend Systems  
-
----
-
-## 👯 Looking to Collaborate On
-
-- 🤖 AI / ML Projects  
-- 🌍 Impactful Tech for Society  
-- 🚀 Hackathon Teams  
-
----
-
-## 💬 Ask Me About
-
-`Web Development` `MERN Stack` `Python` `Deep Learning` `Node.js` `MySQL` `YOLOv8` `C++`
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,androidstudio,flask,fastapi,html,css,opencv,mongodb,azure,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,express,fastapi,flask,html,css,mongodb,mysql,git,github,vscode,tensorflow,pytorch,opencv" />
 </p>
 
 ---
