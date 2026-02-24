@@ -28,7 +28,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,express,fastapi,flask,html,css,mongodb,mysql,git,github,vscode,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,express,fastapi,html,css,mongodb,mysql,git,github,vscode,tensorflow,pytorch" />
 </p>
 
 ---
@@ -61,10 +61,4 @@
   <a href="mailto:ayushjoshi692@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ From <b>Ayush Joshi</b> — Building the future with AI
 </p>
