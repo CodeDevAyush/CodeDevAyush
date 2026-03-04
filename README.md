@@ -48,7 +48,6 @@
 🔹 **Event Attendance Registration System**
 🔹 **Music Player (Spotify Clone)**
 
-
 ---
 
 ## 📫 Connect With Me
