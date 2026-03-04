@@ -46,6 +46,8 @@
 
 🔹 **Plant Disease Detection using YOLOv8 — FarmLence**  
 🔹 **Event Attendance Registration System**
+🔹 **Music Player (Spotify Clone)**
+
 
 ---
 
